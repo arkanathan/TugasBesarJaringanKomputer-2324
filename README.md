@@ -1,0 +1,2 @@
+Tugas besar ini bertujuan untuk mengembangkan server web multithread dengan Python yang mampu melayani beberapa request HTTP secara simultan. Server ini akan menerima request HTTP dari klien, mengambil file yang diminta dari sistem file server, membangun pesan respons HTTP, dan mengirim respons ke klien. Implementasi threading akan digunakan untuk meningkatkan kinerja server dengan memungkinkan pemrosesan request secara paralel.
+
